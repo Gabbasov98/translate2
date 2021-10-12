@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Big City Grotesque';
+    src: local('Big City Grotesque Medium Italic'), local('Big-City-Grotesque-Medium-Italic'),
+        url('BigCityGrotesquePro-MedIta.woff2') format('woff2'),
+        url('BigCityGrotesquePro-MedIta.woff') format('woff'),
+        url('BigCityGrotesquePro-MedIta.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+  }
