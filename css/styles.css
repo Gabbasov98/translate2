@@ -903,7 +903,7 @@ footer p {
   background-repeat: no-repeat;
   background-position: right top 25px;
 }
-@media (max-width: 768px) {
+@media (max-width: 992px) {
   .thanks-form {
     background-image: none;
   }
@@ -934,6 +934,7 @@ footer p {
 @media (max-width: 768px) {
   .thanks-form__subtitle {
     margin-top: 20px;
+    line-height: 33px;
   }
 }
 .thanks-form__img {
