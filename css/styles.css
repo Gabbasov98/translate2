@@ -929,6 +929,7 @@ footer p {
   color: #000000;
   margin-top: 43px;
   text-align: center;
+  font-style: italic;
   margin-bottom: 0;
 }
 @media (max-width: 768px) {
