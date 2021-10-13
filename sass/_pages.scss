@@ -93,6 +93,9 @@
         & img {
             width: 100%;
         }
+        @media(max-width: $tablet-width) {
+            display: none;
+        }
     }
     &__desc {
         margin-top: 3px;
