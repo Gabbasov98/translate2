@@ -877,6 +877,7 @@ footer p {
 }
 .what-product .item img {
   margin: 0 0 7px;
+  display: block;
 }
 @media (max-width: 576px) {
   .what-product .item img {
@@ -896,8 +897,8 @@ footer p {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 7px auto 0;
-  max-width: 234px;
+  margin: 0px auto;
+  width: 100%;
   flex-wrap: wrap;
 }
 .what-product .item__weights {
